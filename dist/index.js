@@ -293,13 +293,14 @@ import { Pool, neonConfig } from "@neondatabase/serverless";
 import { drizzle } from "drizzle-orm/neon-serverless";
 import ws from "ws";
 neonConfig.webSocketConstructor = ws;
+var pool = null;
+var db = null;
 if (!process.env.DATABASE_URL) {
-  throw new Error(
-    "DATABASE_URL must be set. Did you forget to provision a database?"
-  );
+  console.warn("Warning: DATABASE_URL is not set. Database functionality will be disabled, but the website will still load.");
+} else {
+  pool = new Pool({ connectionString: process.env.DATABASE_URL });
+  db = drizzle({ client: pool, schema: schema_exports });
 }
-var pool = new Pool({ connectionString: process.env.DATABASE_URL });
-var db = drizzle({ client: pool, schema: schema_exports });
 
 // server/storage.ts
 import { eq, and, desc, asc } from "drizzle-orm";
@@ -880,8 +881,7 @@ app.use((req, res, next) => {
   const port = parseInt(process.env.PORT || "5000", 10);
   server.listen({
     port,
-    host: "0.0.0.0",
-    reusePort: true
+    host: "localhost"
   }, () => {
     log(`serving on port ${port}`);
   });
