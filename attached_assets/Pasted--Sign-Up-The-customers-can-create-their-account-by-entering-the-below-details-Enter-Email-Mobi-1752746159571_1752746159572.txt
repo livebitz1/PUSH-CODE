@@ -1,0 +1,223 @@
+	Sign Up
+The customers can create their account by entering the below details
+•	Enter Email/ Mobile no.
+•	In case of sign-up via phone number: Users will need to verify their mobile number. For the verification, an OTP will be sent to the registered mobile no. Users can enter the OTP and proceed further. After the user receives a one-time password (OTP) the user is taken to the profile completion screen where a few general details are asked like:
+	Full Name
+	Mobile (auto-filled)
+	Age
+	Gender
+	Address
+	Email
+	Password
+	Confirm Password
+	Checkbox for Terms and Conditions
+
+Note: If the user is unable to register on the application, they can still use it by adding products to the cart. However, during the checkout process, the registration will be initiated before making the payment.
+
+	Sign In
+Users can sign in over the platform by entering the following details: -
+•	Email/Mobile no.
+•	Password
+•	Social media login.
+•	Forgot Password
+	Enter mobile no
+	Enter OTP
+	Reset Password
+	Remember Me: It keeps the user signed in until manual logout is performed on the respective device.
+
+	Social Media Sign In 
+Users can Sign In using social media 
+•	Sign in using Google
+•	Sign in using social media 
+
+
+
+	Home Screen
+After Successful registration OR without registration, The User can land on the home screen of the App. On the Home screen, the user will see the following details: -
+•	App Logo 
+•	Enter your Address
+	By manually
+	User can use their current location
+	Location recommendations while Search 
+	Display a pop-up for trying another location if the user's entered location or address is incorrect. If the location is not within our service area, notify the user that services are not available in that specific place or address.
+•	Search Bar
+	Languages selection: The user can select languages. 
+   English 
+   Cambodian (Khmer)
+•	Offer Banners & Discounts
+•	Dental Categories List View
+	Find Dentist: Connect with skilled professionals tailored to your needs.
+	Featured Products: Users can search for the recommended products such as Toothpaste, Toothbrush &Floss.
+	More Options: Dive deeper into Treatment options, and enlightening Blogs.
+•	Notifications Icon 
+•	Dentist List View 
+•	Techniques & Treatment options 
+•	Latest Blogs
+•	Ratings & Reviews List Slider
+•	My Account
+•	Cart 
+•	My Bookings
+•	Categories
+
+	Search
+This is the most important feature of the platform. This feature will allow the end-users to search for Dentist etc. directly and get the desired results. When users perform a search, recommendation options for various categories will be displayed on the search bar screen, including:
+•	Dentist List 
+•	Popular Search Recommendations
+
+	Location 
+Here user can set the location by enabling the GPS or manually by entering the address. The nearby outlets will be shown according to the location set by the user.
+
+	Search Dentist  
+	Dentist Categories: 
+Here users can have the categories of the Dentist and once they select any category, they will be able to check the related Dentist from that category. The listed categories will be:
+•	Orthodontics
+•	Implant
+•	Veneer
+•	Zirconium
+•	Laser Whitening
+•	General Service
+•	Consultations
+•	Emergency Care
+
+	Dentist Detailed Page:
+Once users have selected a category like "Dentist", delve into the comprehensive details with the specialized page tailored just for users:
+•	Category Name on Top
+•	Search Bar: Seamlessly locate specific Dentists within the category.
+•	Filter By: Customize user search with filters such as:
+	Proximity
+	Availability
+	Video consultation
+	Chat providers
+	Gender preferences
+	Price range options. 
+	Apply filters effortlessly to refine your results.
+
+•	Multiple Dentist List Showcase: Discover a curated list of specialists tailored to user location, each accompanied by
+	Dentist Image
+	Dentist Name
+	Dental Care Description
+	Verified Tag for credibility
+	Fees
+	Experience
+
+•	View Profile for detailed insights
+	Brief Descriptions about Dentists: The user can gain quick insights from the list view.
+	Share Option: Users can share valuable information with loved ones effortlessly.
+	Location on Map: Visualize the specialist's location for added convenience.
+	Availability: Stay informed about the specialist's schedule for booking convenience.
+
+•	Book consultation: Secure your consultation seamlessly with:
+	Dentist Details
+	Date Selection
+	Time Slot Selection
+	Confirmation for booking consultation effortlessly.
+	A video consultation link and an invite will be generated and can be seen in my consultation section. 
+
+	Product Store: (Toothbrushes, Toothpaste & Floss)
+This user-friendly Dental Product Store interface is designed to cater to every need:
+•	Category Name
+•	Search Bar: Users can find desired products swiftly with our search feature.
+•	Banners: Users can stay updated with exciting offers, promotions, and important announcements.
+•	Sub-Category List View: Users can explore a diverse range of categories including different types of dental treatment. Simply click on a product to unveil detailed descriptions and availability.
+•	Trending Products List View: Users can stay ahead of the list of trending products, complete with images and availability based on their location.
+
+	My Cart (Dental Products)
+Here users can add or remove the dental items such as toothbrushes, toothpaste & floss that he/she would like to order.
+•	Product Selection: Users can browse through the Dental Pro and add medicines they wish to order to their cart. They can search for specific medications or browse through categories to find what they need.
+•	Quantity Adjustment: Once products are added to the cart, users can adjust the quantity as needed. They can increase or decrease the quantity of products
+•	Remove Items: If users change their minds or no longer need a particular product, they can easily remove it from their cart with a simple click or swipe gesture.
+•	View Cart: Users have the option to view their cart at any time to review the items they've added. This allows them to double-check their selections, verify quantities, and ensure accuracy before proceeding to checkout.
+
+	Payment Process
+Users can choose from a variety of secure payment methods to complete their transactions. This Dental Booking Application ensures a safe and seamless payment experience, allowing you to use:
+•	Credit cards
+•	Debit Cards 
+•	Digital wallets
+•	Other accepted payment methods.
+•	View & Download Invoices
+•	Insurance & Payment Plan Options (if applicable)
+
+	Checkout: 
+Once the user has added items to the cart, proceed to the checkout process. Here, you can review your selections, verify quantities, and apply any applicable discounts or promotional codes before finalizing your purchase. This will be the process to order the products:
+•	Buy product
+•	Add to cart
+•	Update Quantity
+•	Edit/ Remove product
+•	View amount
+•	View product details
+•	Delivery (Delivery fees if chargeable)
+•	Delivery address (enter the delivery address)
+•	Final Amount
+
+	Order Confirmation: 
+After completing the checkout process, users receive a confirmation of their order. They may also receive updates on the status of their order, including confirmation of payment, processing, and shipping.
+
+	Message or Chat (In-App)
+Once the user makes the payment, they will have access to chat with the Dentist for any instant questions. (Upload and share documents)
+
+	Video Consultations (In-App)
+Here users will have secure high-quality video conferencing for real-time Dentist patient interaction and the first consultation is free. This section will have a chat box and those messages will be reflected in the in-app messages and 1st free consultation is also provided to new registered patients.
+
+	Dentist Appointment & Availability Management Workflow
+•	Set Availability
+1)	Dentists can manage their schedules by setting available consultation slots.
+2)	Time slots for in-person visits, video consultations, and emergency cases can be customized.
+3)	Availability can be updated anytime based on personal or clinic schedules.
+•	Booking & Scheduling
+4)	Patients can book real-time appointments based on available slots.
+5)	Options for both in-person and video consultations.
+6)	Automated reminders and notifications for upcoming appointments.
+•	Follow-Ups & Recurring Visits
+7)	Dentists can track patient history and schedule follow-up appointments.
+8)	Patients receive reminders for routine check-ups or post-treatment visits.
+9)	Follow-ups are planned based on the patient’s treatment cycle.
+•	Emergency & Priority Bookings
+10)	Priority slots are available for emergency dental cases.
+11)	Patients can request urgent care appointments (subject to doctor approval).
+12)	Special cases like post-surgery follow-ups receive priority scheduling.
+
+	My Booking:
+•	Consultation Management: View and manage all your upcoming and past consultations in one centralized location.
+•	Consultation Convenience: Easily schedule, reschedule, or cancel appointments directly from this page.
+•	Consultation Details: Access detailed information about each consultation, including date, time, Dentist name, and Review/ratings.
+•	Reminders: Receive timely reminders and notifications about upcoming consultations to help you stay organized.
+•	History Tracking: Keep track of your consultation history for reference and future planning.
+•	Feedback: Provide feedback or ratings for past appointments to help improve the dentist experience for yourself and others.
+
+	Notifications: 
+This Application may send reminders and notifications to users regarding items in their cart, upcoming consultations, or pending actions and appointments.
+
+	History and Tracking: 
+Users can keep track of their past purchases and consultations within this section. Access their order history to review previous transactions, view appointment details, and track the status of their orders.
+
+	Customer Support: 
+Users may have access to customer support services directly from this section for any inquiries or assistance related to their bookings or orders.
+
+	My Profile
+Here User can see the below-mentioned modules:
+•	My Profile 
+	User Name:  Display the user's full name or chosen username.
+	Registered number: Show the user's contact or registration number.
+	Location/ Current Address: Display the user's address information.
+•	My Order History: Display a list of the user's past orders, including order numbers, dates, and order details. Each order should link to a more detailed order history page.
+•	My Payments: Show a summary of the user's payment methods (credit card, cash, etc.)
+•	My Dentist:
+	User can keep track of their trusted dentist.
+	Access their profiles, appointment schedules, and contact information.
+•	Dental Care Tips:
+	Access a treasure trove of expert advice and wellness tips.
+	Get actionable insights to support dental goals.
+•	Share App:
+	Share the app via various channels with friends and family.
+•	Settings:
+	Adjust notification settings.
+	Update personal information.
+	Configure account preferences with ease.
+•	FAQs: Provide answers to frequently asked questions about the platform or service, helping users find solutions to common issues.
+•	About us: Include information about the company, its mission, and its history. This section offers transparency and builds trust with users.
+•	Terms and conditions: Present the terms of service and user agreements that govern the use of the platform. Users may need to accept these terms to use the service.
+•	Help & Support: Access customer support options like live chat or email. Users should be able to seek assistance when needed.
+•	Privacy policy: Display the platform's privacy policy, detailing how user data is collected, stored, and used. Users should have easy access to this information.
+•	Ratings & Reviews
+•	Sign Out: Allow users to securely log out of their accounts to protect their privacy and data
+

@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+
+# Vite
+.vite/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Replit
+.replit
+
+# Asset cache
+attached_assets/*.tmp
+attached_assets/*.bak
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Others
+*.local
+
+# Ignore test output
+*.test-results
